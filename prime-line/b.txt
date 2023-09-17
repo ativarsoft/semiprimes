@@ -1,0 +1,75 @@
+n=13
+--aabbaabbaa# a=2 n//a=6
+---aaabbbaaa# a=3 n//a=4
+----aaaabbbb# a=4 n//a=3
+-----aaaaa### a=5 n//a=2
+
+n=37
+--aabbaabbaabbaabbaabbaabbaabbaabbaa# a=2 n//a=13 diff=? n-(n//a*a)=1
+---aaabbbaaabbbaaabbbaaabbbaaabbbaaa# a=3 n//a=12 diff=1 n-(n//a*a)=1
+----aaaabbbbaaaabbbbaaaabbbbaaaabbbb# a=4 n//a=9 diff=3 n-(n//a*a)=1
+-----aaaaabbbbbaaaaabbbbbaaaaabbbbb## a=5 n//a=7 diff=2 n-(n//a*a)=2
+------aaaaaabbbbbbaaaaaabbbbbbaaaaaa# a=6 n//a=6 diff=1 n-(n//a*a)=1
+-------aaaaaaabbbbbbbaaaaaaabbbbbbb## a=7 n//a=5 diff=1 n-(n//a*a)=2
+a=8 n-(n//a*a)=5
+a=9 n-(n//a*a)=1
+a=10 7
+a=11 4
+a=12 1
+a=13 11
+a=14 9
+a=15 7
+a=16 5
+a=17 3
+a=18 1
+a=19 18
+a=20 17
+a=21 16
+a=22 15
+a=23 14
+a=24 13
+a=25 12
+a=26 11
+a=27 10
+a=28 9
+a=29 8
+a=30 7
+a=31 6
+a=32 5
+a=33 4
+a=34 3
+a=35 2
+a=36 1
+a=37 0
+
+n=37*31=1247
+a=2 1
+a=3 2
+a=4 3
+a=5 2
+a=6 5
+a=7 1
+a=8 7
+a=9 5
+a=10 7
+a=11 4
+a=12 11
+a=13 12
+a=14 1
+a=15 2
+a=16 15
+a=17 6
+a=18 5
+a=19 12
+a=20 7
+a=21 
+a=22 
+a=23 
+a=24 
+a=25 
+a=26 
+a=27 
+a=28 
+a=29 
+a=30 
+a=31 

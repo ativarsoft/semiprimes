@@ -1,0 +1,34 @@
+int is_prime(int num_sides) {
+	int triangle_angle=(180-(360/num_sides))/2
+	int poligon_inner_angle=2*triangle_angle
+	return poligon_inner_angle%90
+}
+
+int main()
+{
+	printf("%d\n", is_prime(12));
+}
+
+-
+--xx
+---
+----
+
+-xxxx
+--xxx
+---xx
+----- n
+
+-xxxxxx
+--xxxxy
+---xxxy
+----yyy
+-------
+
+int num_dash=0
+for(i = 0; i < num)
+num_dash=num_dash<<2
+if (num_dash==n)
+
+
+

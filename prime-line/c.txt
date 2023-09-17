@@ -1,0 +1,2 @@
+n - (Floor[n/a]*a)=x
+Comb[z]=+Inf

@@ -1,0 +1,8 @@
+pq(H_x-1)=q
+
+2022/04/10 19:35:38
+n(HarmonicNumber[q+1]-1)==a, where a is an integer
+wrong
+
+2022/04/10 20:11:20
+Sum[n/i, {i, 2, x}]==a==n-q, where a is an integer
